@@ -1,0 +1,23 @@
+{
+  "name": "generic-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "sass --no-source-map --watch scss/styles.scss:css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KemmyS/Generic-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KemmyS/Generic-starter/issues"
+  },
+  "homepage": "https://github.com/KemmyS/Generic-starter#readme",
+  "dependencies": {
+    "sass": "^1.64.1"
+  }
+}
