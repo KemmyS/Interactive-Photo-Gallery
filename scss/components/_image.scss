@@ -1,2 +1,7 @@
 @use "../utilities/mixins" as *;
 @use "../utilities/variables" as *;
+
+img{
+    width: 120px;
+    height: 120px;
+}

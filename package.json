@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KemmyS/Generic-starter#readme",
   "dependencies": {
+    "baguettebox.js": "^1.11.1",
     "sass": "^1.64.1"
   }
 }
